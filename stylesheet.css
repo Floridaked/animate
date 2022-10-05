@@ -9,6 +9,8 @@
 
 #londonheading{
 	background-color: pink;
+	text-align: center;
+	font-family: Roboto, sans-serif;
 }
 
 span{
@@ -22,4 +24,8 @@ span{
 	border-color: lightgreen;
 	border-width: 10px;
 	margin: 5px;
+}
+
+body {
+	font-family: courier new, sans-serif;
 }
